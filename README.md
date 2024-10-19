@@ -1,4 +1,4 @@
-This is the Carrot Token
+This is the Carrot Token, its a simple ERC20 Token
 
 #ABOUT
 1. The Owner of this contract is given an inital supply of tokens
